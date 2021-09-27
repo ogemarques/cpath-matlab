@@ -20,7 +20,7 @@ It highlights the usefulness of MATLAB (and Image Processing Toolbox) functions 
 - Feature extraction: `bwlabel` and `regionprops`
 - Visualization: `montage`, `imoverlay`, `plot` and `rectangle`
 
-| ![](figures/Fig7.png) |
+![](figures/Fig7.png)
 
 ## Requirements
 - [X]  [MATLAB 2021a](https://www.mathworks.com/products/matlab.html) or later
