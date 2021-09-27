@@ -1,3 +1,5 @@
+[![View Deep Learning workflow for computational pathology on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/99929-deep-learning-workflow-for-computational-pathology)
+
 # Deep Learning workflow for computational pathology
 This repository shows an example of how to use MATLAB to manipulate very large images in the context of computational pathology (CPATH). 
 
